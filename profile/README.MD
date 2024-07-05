@@ -12,6 +12,10 @@ Our core values are:
 
 Join us as we pave the way for a decentralized future.
 
+### Links:
+* 𝕏: https://x.com/ValidHMD
+* GitBook: https://validhmd.gitbook.io/validhmd/
+
 
 
 
