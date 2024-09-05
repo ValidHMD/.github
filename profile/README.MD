@@ -11,7 +11,7 @@ Our core values are:
 
 # Contrubutions
 
-### Gaia: 
+### Gaia: https://hmd.vivianidi.cyou/validhmd/gaia/installation
 
 ### 0G: https://hmd.vivianidi.cyou/validhmd/0g/installation
 
