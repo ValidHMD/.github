@@ -9,6 +9,13 @@ Our core values are:
 * Innovation: Continuously advancing with cutting-edge technology and solutions.
 * Community: Engaging and supporting the blockchain community to foster growth and collaboration.
 
+# Contrubutions
+
+Gaia: 
+0G: https://hmd.vivianidi.cyou/validhmd/0g/installation
+Nibiru: https://hmd.vivianidi.cyou/validhmd/nibiru/installation
+MUN: https://hmd.vivianidi.cyou/validhmd/mun/installation
+
 
 Join us as we pave the way for a decentralized future.
 
