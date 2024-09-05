@@ -11,11 +11,13 @@ Our core values are:
 
 # Contrubutions
 
-Gaia: 
-0G: https://hmd.vivianidi.cyou/validhmd/0g/installation
-Nibiru: https://hmd.vivianidi.cyou/validhmd/nibiru/installation
-MUN: https://hmd.vivianidi.cyou/validhmd/mun/installation
+### Gaia: 
 
+### 0G: https://hmd.vivianidi.cyou/validhmd/0g/installation
+
+### Nibiru: https://hmd.vivianidi.cyou/validhmd/nibiru/installation
+
+### MUN: https://hmd.vivianidi.cyou/validhmd/mun/installation
 
 Join us as we pave the way for a decentralized future.
 
